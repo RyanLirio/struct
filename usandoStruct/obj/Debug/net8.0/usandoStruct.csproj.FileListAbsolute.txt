@@ -1,0 +1,14 @@
+C:\Users\RL\Desktop\csharp\struct\usandoStruct\bin\Debug\net8.0\usandoStruct.exe
+C:\Users\RL\Desktop\csharp\struct\usandoStruct\bin\Debug\net8.0\usandoStruct.deps.json
+C:\Users\RL\Desktop\csharp\struct\usandoStruct\bin\Debug\net8.0\usandoStruct.runtimeconfig.json
+C:\Users\RL\Desktop\csharp\struct\usandoStruct\bin\Debug\net8.0\usandoStruct.dll
+C:\Users\RL\Desktop\csharp\struct\usandoStruct\bin\Debug\net8.0\usandoStruct.pdb
+C:\Users\RL\Desktop\csharp\struct\usandoStruct\obj\Debug\net8.0\usandoStruct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RL\Desktop\csharp\struct\usandoStruct\obj\Debug\net8.0\usandoStruct.AssemblyInfoInputs.cache
+C:\Users\RL\Desktop\csharp\struct\usandoStruct\obj\Debug\net8.0\usandoStruct.AssemblyInfo.cs
+C:\Users\RL\Desktop\csharp\struct\usandoStruct\obj\Debug\net8.0\usandoStruct.csproj.CoreCompileInputs.cache
+C:\Users\RL\Desktop\csharp\struct\usandoStruct\obj\Debug\net8.0\usandoStruct.dll
+C:\Users\RL\Desktop\csharp\struct\usandoStruct\obj\Debug\net8.0\refint\usandoStruct.dll
+C:\Users\RL\Desktop\csharp\struct\usandoStruct\obj\Debug\net8.0\usandoStruct.pdb
+C:\Users\RL\Desktop\csharp\struct\usandoStruct\obj\Debug\net8.0\usandoStruct.genruntimeconfig.cache
+C:\Users\RL\Desktop\csharp\struct\usandoStruct\obj\Debug\net8.0\ref\usandoStruct.dll
